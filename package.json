@@ -1,0 +1,22 @@
+{
+  "name": "wa-apengjers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "baileys": "^6.7.18",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "google-spreadsheet": "^4.1.4",
+    "midtrans-client": "^1.4.3",
+    "pino": "^9.7.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
